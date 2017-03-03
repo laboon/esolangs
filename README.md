@@ -9,13 +9,15 @@ The original esoteric language.
 
 The instruction manual - well worth reading - is located here: http://www.muppetlabs.com/~breadbox/intercal-man/
 
+On OS X, you can `brew install intercal`, and then run Befunge code with the appropriately-named command `ick`.
+
 You can compile/run these with the online interpreter at: https://www.tutorialspoint.com/compile_intercal_online.php
 
 ## Befunge
 
 A two-dimensional programming language.
 
-On OS X, you can brew install befunge93, and then run Befunge code with the command `bef`.
+On OS X, you can `brew install befunge93`, and then run Befunge code with the command `bef`.
 
 A befunge tutorial is here: http://bef-93.blogspot.com/2014/06/bef-93-tutorial.html
 
