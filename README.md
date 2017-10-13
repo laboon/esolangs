@@ -13,6 +13,8 @@ On OS X, you can `brew install intercal`, and then run Befunge code with the app
 
 You can compile/run these with the online interpreter at: https://www.tutorialspoint.com/compile_intercal_online.php
 
+OR you can use JBefunge, a Befunge interpreter that I wrote in Java/Swing: https://github.com/laboon/JBefunge
+
 ## Befunge
 
 A two-dimensional programming language.
